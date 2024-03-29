@@ -50,5 +50,5 @@ Special thanks to Font Awesome for providing the icons used in this project.
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by KUSHAL-SOLANKI
 </p>
