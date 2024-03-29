@@ -8,7 +8,6 @@ Welcome to the ToDo App! This is a simple yet powerful web application that help
 
 ### Features
 - **Add Tasks**: Quickly add new tasks to your to-do list.
-- **Mark as Completed**: Check off tasks as you complete them.
 - **Delete Tasks**: Remove tasks that you no longer need.
 - **Persistent Storage**: Your tasks are saved locally, so you never lose your progress.
 
@@ -39,10 +38,6 @@ To run the ToDo App locally on your machine, follow these simple steps:
 
 ## Preview
 ![image](https://github.com/kushal-solanki/test/assets/114848773/21d31000-51cd-4d04-bbcf-fec1b10bec46)
-
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 Special thanks to Font Awesome for providing the icons used in this project.
