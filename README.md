@@ -38,7 +38,8 @@ To run the ToDo App locally on your machine, follow these simple steps:
 2. **Delete a Task**: Click on the delete icon or the delete button to remove a task from the list.
 
 ## Preview
-![ToDo App Preview](todo-app-preview.png)
+![image](https://github.com/kushal-solanki/test/assets/114848773/21d31000-51cd-4d04-bbcf-fec1b10bec46)
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
