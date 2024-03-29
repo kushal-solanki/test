@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ToDo App</h1>
-  <img src="https://cdn-icons-png.flaticon.com/512/7692/7692809.png" alt="ToDo App Preview" width="500px">
+  <img src="https://cdn-icons-png.flaticon.com/512/7692/7692809.png" alt="ToDo App Preview" width="100px">
 </div>
 
 ## Overview
