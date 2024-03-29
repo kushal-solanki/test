@@ -35,8 +35,7 @@ To run the ToDo App locally on your machine, follow these simple steps:
 
 ## Usage
 1. **Add a Task**: Enter a task in the input field and click the "Add" button.
-2. **Mark as Completed**: Click on a task to mark it as completed.
-3. **Delete a Task**: Click on the delete icon or the delete button to remove a task from the list.
+2. **Delete a Task**: Click on the delete icon or the delete button to remove a task from the list.
 
 ## Preview
 ![ToDo App Preview](todo-app-preview.png)
