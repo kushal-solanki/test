@@ -1,39 +1,54 @@
 <div align="center">
-  <img src="todo-app-preview.png" alt="ToDo App Preview" width="400px">
+  <h1>ToDo App</h1>
+  <img src="todo-app-preview.png" alt="ToDo App Preview" width="500px">
 </div>
 
-<h1 align="center">ToDo App</h1>
+## Overview
+Welcome to the ToDo App! This is a simple yet powerful web application that helps you manage your tasks effectively. With intuitive features and a clean interface, staying organized has never been easier.
 
-<p align="center">
-  A simple and intuitive ToDo web application built with HTML, CSS, and JavaScript.
-</p>
+### Features
+- **Add Tasks**: Quickly add new tasks to your to-do list.
+- **Mark as Completed**: Check off tasks as you complete them.
+- **Delete Tasks**: Remove tasks that you no longer need.
+- **Persistent Storage**: Your tasks are saved locally, so you never lose your progress.
 
-<p align="center">
-  <a href="#demo">Demo</a> •
-  <a href="#features">Features</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#license">License</a>
-</p>
+## Technologies Used
+- **HTML**: Structure and layout of the web page.
+- **CSS**: Styling and design elements.
+- **JavaScript**: Dynamic functionality and interactivity.
+
+## Getting Started
+To run the ToDo App locally on your machine, follow these simple steps:
+
+1. **Clone the Repository**: 
+    ```bash
+    git clone <repository_url>
+    ```
+
+2. **Navigate to the Project Directory**: 
+    ```bash
+    cd ToDo-App
+    ```
+
+3. **Open the Application**: 
+    - Open the `index.html` file in your preferred web browser.
+
+## Usage
+1. **Add a Task**: Enter a task in the input field and click the "Add" button.
+2. **Mark as Completed**: Click on a task to mark it as completed.
+3. **Delete a Task**: Click on the delete icon or the delete button to remove a task from the list.
+
+## Preview
+![ToDo App Preview](todo-app-preview.png)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+Special thanks to Font Awesome for providing the icons used in this project.
 
 ---
 
-## Demo
-
-<div align="center">
-  <img src="demo.gif" alt="ToDo App Demo" width="600px">
-</div>
-
-## Features
-
-- **Add Tasks**: Easily add tasks to your to-do list.
-- **Mark as Completed**: Mark tasks as completed with a simple click.
-- **Delete Tasks**: Remove tasks from the list when they are no longer needed.
-- **Persistence**: Tasks are saved locally and persist between sessions.
-
-## Getting Started
-
-To run this application locally:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository_url>
+<p align="center">
+  Made with ❤️ by [Your Name]
+</p>
